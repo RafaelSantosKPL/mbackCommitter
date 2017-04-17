@@ -1,0 +1,20 @@
+{
+  "name": "maback-commiter",
+  "version": "0.0.1",
+  "description": "Commit formater",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "Node",
+    "git"
+  ],
+  "author": "Rafael Santos",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "prompt": "^1.0.0",
+    "simple-git": "^1.70.0"
+  }
+}
