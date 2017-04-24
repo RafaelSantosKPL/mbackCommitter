@@ -1,10 +1,10 @@
 #! /usr/bin/env node
 
 var prompt = require('prompt'),
-    git = require('simple-git'),
+    git    = require('simple-git'),
     colors = require('colors');
 
-var wDir = process.cwd();
+var wDir   = process.cwd();
 
 function exit(msg){
     console.log(msg);
